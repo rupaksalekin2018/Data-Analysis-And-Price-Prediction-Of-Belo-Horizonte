@@ -89,7 +89,7 @@ This dataset can be used to build models to predict the sale price of houses in 
 24.  Training Linear Regression, XGBoost & Catboost, performance did not increase
 
 ## Results:
-We initially kept the Longitude and Latitude column of the dataset. Then we trained various models with the data. Only hyper tuned XGBoost, Regular CatBoost Regression & hyper tuned CatBoost Regression performed well.
+####We initially kept the Longitude and Latitude column of the dataset. Then we trained various models with the data. Only hyper tuned XGBoost, Regular CatBoost Regression & hyper tuned CatBoost Regression performed well.
 
 | Model      | R2 Score | Mean Absolute Percentage Error    |
 | :---        |    :----:   |          ---: |
