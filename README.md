@@ -107,4 +107,5 @@ Now, we show the result for the model trained without longitude and latitude col
 | XGBoost   |0.2816       | 0.4967     |
 | Hypertuned XGBoost      | 0.6823     | 0.1397   |
 | CatBoost  |0.6732         |0.1457   |
+
 **From these two tables we can clearly say CatBoost Regression with Longitude and Latitude columns performed best.**
